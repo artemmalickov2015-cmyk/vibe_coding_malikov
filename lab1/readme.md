@@ -35,6 +35,6 @@
 4. `.env.example`
    Пример файла конфигурации с переменной `BOT_TOKEN`.
 ## 3. Стек технологий
-Python 3.10+
-python-telegram-bot — обработка команд и сообщений Telegram.
-python-dotenv — загрузка токена из .env.
+- Python 3.10+
+- python-telegram-bot — обработка команд и сообщений Telegram.
+- python-dotenv — загрузка токена из .env.
